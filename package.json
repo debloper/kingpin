@@ -1,0 +1,23 @@
+{
+  "name": "kingpin",
+  "version": "0.0.0",
+  "description": "Alternative frontend for Red Hat Unified Storage Manager",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/debloper/kingpin"
+  },
+  "keywords": [
+    "storage",
+    "manager",
+    "gui",
+    "frontend",
+    "dashboard"
+  ],
+  "author": "Soumya Deb",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/debloper/kingpin/issues"
+  }
+}
