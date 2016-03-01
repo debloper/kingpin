@@ -8,6 +8,10 @@ pids
 *.pid
 *.seed
 
+# Build directories
+dist
+tmp
+
 # node-waf configuration
 .lock-wscript
 
