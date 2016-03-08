@@ -1,0 +1,9 @@
+.login-pf body {
+	background: #080808 url("../img/login-bg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.login-pf #brand {
+  text-transform: uppercase;
+}
