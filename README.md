@@ -1,5 +1,5 @@
 # kingpin
-### Alternative frontend for Red Hat Unified Storage Manager
+### A conceptual frontend for Storage Management
 
 ## Get Set Go
 Install latest `Node.js` and `npm` for your platform to begin with. Example script for fedora: `$ sudo dnf install -y nodejs npm`. Once succesful, proceed with the following steps.
